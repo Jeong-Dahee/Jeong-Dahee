@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/github/followers/Jeong-Dahee?style=social
