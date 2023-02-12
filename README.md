@@ -7,7 +7,7 @@
 ## 👩‍🔧 Tech Stack
 <img src="https://img.shields.io/badge/Java-F37C20?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 
-## 📋 Work Experience
+<!-- ## 📋 Work Experience
 - Work Experience | Work Experience (2023.02 ~ )
 
 ## 👩‍👧‍👦 Share
@@ -16,7 +16,7 @@
 ## 📬 New Post
 - new post
 
-<!--
+
 **Jeong-Dahee/Jeong-Dahee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
